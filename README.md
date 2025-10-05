@@ -1,2 +1,2 @@
 # README
-Sprint 7. Bryan Ferniza
+Muestra un histograma y diagrama de dispersión acerca sobre la venta de coches en USA.
